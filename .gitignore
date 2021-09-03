@@ -1,0 +1,27 @@
+[Oo]bj
+[Bb]in
+*.user
+*.suo
+*.[Cc]ache
+*.bak
+*.ncb
+*.log
+Java-tasks.iml 
+.idea
+
+target/
+.classpath
+.project
+.settings
+
+*.DS_Store
+[Tt]humbs.db
+
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
